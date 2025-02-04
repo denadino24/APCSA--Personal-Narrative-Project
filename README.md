@@ -26,17 +26,12 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 Record a short video of your story to display here on your README. You can do this by:
 
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+https://github.com/user-attachments/assets/cc268a96-f7b0-4d6a-ae14-4b07142884c9
 
 ## Story Description
+In my personal narrative project, it displayed images of the highest reviewed makeup products at Sephora, involving products such as lip balm, blush, contour, and concealer. As the scenes of the images are displayed and paused, filters are then added ot them one by one including the pixelate filter, the gaussian blur filter, and the colorize filter. Pixel arrays are initialized and instantiated and are returned as a 2D array of Pixel objects. Images are divided into a grid
+of equal-sized rectangular regions and setting the color of each Pixel object in a region to the color of the first Pixel object in the region.
 
-Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
 ## Image Filter Analysis
-
+(Filters used include the pixelate, gaussian blur, and colorize filter)
 Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
